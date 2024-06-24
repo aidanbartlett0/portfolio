@@ -1,0 +1,113 @@
+.mainBody {
+    margin-top: 7%;
+}
+
+.navbar{
+    background-color: lightskyblue;
+}
+
+img {
+    border-radius: 8px;
+    max-width: 95%;
+}
+
+.project_card {
+    border-radius: 8px;
+    padding: 3%;
+    margin-top: 8%;
+    margin-bottom: 5%;
+    border: solid;
+    border-color: lightgray;
+    box-shadow: 10px 10px 6px lightgray;
+}
+
+p.bold{
+    font-weight: bold;
+}
+
+a{
+    display: block;
+}
+
+.c{
+    background-color: lightblue;
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+
+.c h1{
+    padding: 20%;
+}
+
+.intro{
+    padding-top: 30%;
+    text-align: end;
+    float: right;
+    right: 0px;
+    width: 65%;
+}
+
+.intro a{
+    float: right;
+    width: 50%;
+    margin-right: -7%;
+}
+
+.about-me img{
+    height: 75%;
+}
+
+
+/* experience */
+
+.skills{
+    margin-left: 5%;
+}
+
+.skills .row:not(:first-of-type) img{
+    margin-top: 8%;
+}
+
+.skills h3:not(:first-child){
+    margin-top: 10%;
+}
+
+.skills img{
+    margin: 0 auto;
+    width: 90px;
+    height: 90px; 
+    object-fit: cover; 
+}
+
+.cloud{
+    margin-right: -7%;
+}
+
+.professional{
+    margin: 0 auto;
+    margin-right: -5%;
+}
+
+.position h3{
+    font-style: italic;
+}
+
+.professional li{
+    text-align: left;
+}
+
+.position p:not(:first-of-type){
+    text-align: left;
+}
+
+.professional .position:not(:first-of-type){
+    margin-top: 5%;
+}
+
+.position{
+    padding: 2%;
+    border-radius: 8px;
+    border: solid;
+    border-color: lightgray;
+    box-shadow: 10px 10px 6px lightgray;
+}
