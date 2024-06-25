@@ -19,13 +19,22 @@ img {
     border: solid;
     border-color: lightgray;
     box-shadow: 10px 10px 6px lightgray;
+    align-items: center;
+}
+
+.year{
+    margin-top: -10%;
+}
+
+.project_card .text-start p:not(:first-child){
+    margin-top: 3%;
 }
 
 p.bold{
     font-weight: bold;
 }
 
-a{
+.project_card a{
     display: block;
 }
 
