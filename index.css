@@ -26,7 +26,7 @@ img {
     margin-top: -10%;
 }
 
-.project_card .text-start p:not(:first-child){
+.project_card .text-start li:not(:first-child){
     margin-top: 3%;
 }
 
@@ -53,7 +53,7 @@ p.bold{
     text-align: end;
     float: right;
     right: 0px;
-    width: 65%;
+    width: 80%;
 }
 
 .intro a{
